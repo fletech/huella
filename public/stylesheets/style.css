@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #226f8d;
 }
 
 header {
@@ -426,5 +426,9 @@ footer .fila2 .redes a i.fa-pinterest{}
   }
   footer .fila2 .redes{
        margin: 20px 0px;
+  }
+  footer .fila2 .fletech{
+       order: 4;
+       margin-top: 15px
   }
 }
